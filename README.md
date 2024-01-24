@@ -4,5 +4,5 @@ The objective of this initiative is to unveil the determinants contributing to e
 
 ## Dataset
 This is a fictional dataset created by IBM data scientists collected from Kaggle. 
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset.
 We performed exploratory analysis using SQL and MongoDB queries to answer a few questions that influence attrition.
